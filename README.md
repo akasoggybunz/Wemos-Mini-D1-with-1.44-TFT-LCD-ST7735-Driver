@@ -2,7 +2,8 @@
 Arduino code for the Wemos D1 Mini with a Generic 1.44 TFT LCD running on the ST7735 Driver
 
 ## Wiring Diagram 
-[logo]: https://github.com/akasoggybunz/Wemos-Mini-D1-with-1.44-TFT-LCD-ST7735-Driver/blob/master/diagram.PNG?raw=true "Wemos d1 mini wiring diagram with 1.44 tft lcd"
+
+![alt text](https://github.com/akasoggybunz/Wemos-Mini-D1-with-1.44-TFT-LCD-ST7735-Driver/blob/master/diagram.PNG?raw=true "wemos")
 
 ## Example
 Click on the image to watch my original video using this code.
