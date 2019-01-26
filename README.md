@@ -12,7 +12,7 @@ Arduino code, and general documentation for the Wemos D1 Mini with a Generic 1.4
 | D7            | SDA           |
 | 3v3           | VCC           |
 | G             | GND           |
-| ANy Pin       | Backlight     |
+| Any Pin       | Backlight     |
 
 ## Wiring Diagram 
 
